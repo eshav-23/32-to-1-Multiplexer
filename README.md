@@ -11,7 +11,7 @@ This Verilog code is implemented in XILINX Vivado.
 1. Clone the repository to your local machine:
     
     ```
-    git clone <https://github.com/esha-23/4-bit-ALU.git>
+    git clone <https://github.com/esha-23/32-to-1-Multiplexer.git>
     
     ```
     
